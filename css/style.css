@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.honda-bg-info{
+    background-color: #264653;
+}
+.honda-btn-purchase{
+    background-color: #E76F51;
+    border: none;
+    color: white;
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.modal-color{
+    color: black;
+}
+/* honda picture part (2nd part)  */
+#small{
+    color: #E76F51;
+    height: 21px;
+    padding: 0;
+    margin: 0;
+}
+
+/* grayscale image  */
+.gray{
+    filter: grayscale(100%);
+}
+/* Happy Clients 3rd Part  */
+/* font awesome icon  */
+.fa-star.filled{
+    color: #E77C40;
+}
+.fa-star.empty{
+    color: #E77C40;
+}
+
+/* FAQ & image 4th part  */
+.faq-img{
+    width: 100%
+}
+
+/* New Collection 5th part  */
+.categories img{
+    width: 100px;
+}
